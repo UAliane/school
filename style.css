@@ -1,0 +1,455 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: century;
+}
+.header{
+    background-color: black;
+   
+
+}
+
+.main{
+    background-color: rgb(18, 7, 46);
+    width: 100%;
+    height: 17rem;
+    display: flex;
+    justify-content: space-between;
+}
+.logo img{
+    height: 15rem;
+    width: 15rem;
+    margin-left: 5rem;
+    padding-top: 1rem;
+}
+.navgation ul{
+    display: flex;
+    justify-content: space-around;
+
+}
+.navgation a {
+    text-decoration: none;
+    margin-left: 4rem;
+    font-size: 1.5rem;
+    color: white;
+    margin-top: 5rem;
+    font-family:  Helvetica, sans-serif;
+
+}
+.navgation a:hover{
+    color: rgb(97, 41, 41);
+    text-decoration: underline;
+}
+.koko button{
+    background-color: azure;
+    color: black;
+    width: 180px;
+    height: 50px;
+    border-radius: 2rem;
+    border: purple;
+    font-size: 1.5rem;
+    margin-top: 4rem;
+
+}
+.jojo button{
+    background-color: azure;
+    color: black;
+    width: 200px;
+    height: 50px;
+    border: purple;
+    font-size: 1.5rem;
+    margin-top: 4rem;
+    margin-right: 2rem;
+
+
+}
+.image{
+    background-image: url(https://res.cloudinary.com/ds4ij7xrn/image/upload/v1758522886/WhatsApp_Image_2025-09-09_at_7.30.57_PM_zs7qqj.jpg);
+    height: 35rem;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    object-fit: fill;
+}
+.map p{
+    color: white;
+    font-size: 3rem;
+    font-family:  sans-serif;
+    text-align: center;
+    padding-top: 4rem;
+   
+
+}
+.map button{
+    background-color: azure;
+    color: black;
+    width: 200px;
+    height: 60px;
+    border-radius: 2rem;
+    margin-left: 30rem;
+    border: purple 20px;
+    margin-top: 10rem;
+    font-size: 2rem;
+    
+    
+}
+.lose p{
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+    font-family:  Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 5rem;
+    background-color: rgb(17, 17, 36);
+    padding-top: 2rem;
+}
+.moses {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 10rem;
+    justify-content: space-around;
+    
+
+}
+.true h1{
+    color: black;
+    font-size: 2rem;
+}
+.more{
+    background-image: url(https://res.cloudinary.com/ds4ij7xrn/image/upload/v1758561403/sw_ibcli3.jpg);
+    height: 10rem;
+    width: 20rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.lose p{
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+    font-family:  Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 5rem;
+    background-color: rgb(17, 17, 36);
+    padding-top: 2rem;
+}
+.moses {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 10rem;
+    justify-content: space-around;
+    
+
+}
+.true h1{
+    color: black;
+    font-size: 2rem;
+}
+.more{
+    background-image: url(https://res.cloudinary.com/ds4ij7xrn/image/upload/v1758561403/sw_ibcli3.jpg);
+    height: 10rem;
+    width: 20rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.more h1{
+    font-size: 3rem;
+    color: black;
+
+}
+.more button{
+    background-color: azure;
+    color: black;
+    width: 180px;
+    height: 50px;
+    border-radius: 2rem;
+    border: purple;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+.terez{
+    background-image: url(https://res.cloudinary.com/ds4ij7xrn/image/upload/v1758562001/yoo_zbhqtb.jpg);
+    height: 10rem;
+    width: 20rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+}
+.terez h1{
+    font-size: 3rem;
+    color: black;
+
+}
+.terez button{
+    background-color: azure;
+    color: black;
+    width: 180px;
+    height: 50px;
+    border-radius: 2rem;
+    border: purple;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+.deboh{
+    background-image: url(https://res.cloudinary.com/ds4ij7xrn/image/upload/v1758562361/yth_xr0d2g.jpg);
+    height: 10rem;
+    width: 20rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    margin-top: 3rem;
+}
+.deboh h1{
+    font-size: 3rem;
+    color: black;
+
+}
+.deboh button{
+    background-color: azure;
+    color: black;
+    width: 180px;
+    height: 50px;
+    border-radius: 2rem;
+    border: purple;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+.rutors p{
+    margin-top: 5rem;
+    text-align: center;
+    font-size: 2rem;
+}
+.solange{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 10rem;
+    justify-content: space-around;
+}
+.bebe{
+    background-image:url(https://res.cloudinary.com/ds4ij7xrn/image/upload/v1758561108/yu_fx1oor.jpg) ;
+    height: 13rem;
+    width: 25rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    margin-top: 3rem;
+}
+.bebe h1{
+    font-size: 3rem;
+    color: black;
+
+}
+.bebe button{
+    background-color: azure;
+    color: black;
+    width: 180px;
+    height: 50px;
+    border-radius: 2rem;
+    border: purple;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+.baba{
+    background-image: url(https://res.cloudinary.com/ds4ij7xrn/image/upload/v1758564301/ert_nflyd2.jpg);
+    height: 13rem;
+    width: 25rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    margin-top: 3rem;
+}
+.baba h1{
+    font-size: 3rem;
+    color: black;
+
+}
+.baba button{
+    background-color: azure;
+    color: black;
+    width: 180px;
+    height: 50px;
+    border-radius: 2rem;
+    border: purple;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+.alice{
+    background-color: rgb(31, 31, 51);
+    height: 30rem;
+    width: 50rem;
+    margin-top: 5rem;
+    margin-left: 20rem;
+}
+.perer h1{
+    text-align: center;
+    color: white;
+    font-family:  Helvetica;
+    margin-top: 3rem;
+}
+.perer p{
+    font-size: 1rem;
+    margin-left: 3rem;
+    color: white;
+    margin-top: 1rem;
+}
+.popor h2{
+    text-align: center;
+    color: white;
+    font-family:  Helvetica;
+    margin-top: 1rem;
+}
+.popor p{
+    font-size: 1.5rem;
+    margin-left: 3rem;
+    color: white;
+    margin-top: 1rem;
+}
+.mout{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+.maxix{
+    background-color: rgb(31, 31, 51);
+    height: 30rem;
+    width: 25rem;
+    margin-top: 5rem;
+   
+}
+.cool img{
+    height: 20rch;
+    width: 25rem;
+}
+.cool h1{
+    text-align: center;
+    color: white;
+
+}
+.cool p{
+    color: white;
+    font-size: 1rem;
+    margin-top: 3rem;
+    margin-left: 2rem;
+    font-family:  Helvetica; 
+
+}
+.maxingx{
+    background-color: rgb(31, 31, 51);
+    height: 30rem;
+    width: 25rem;
+    margin-top: 5rem;
+
+}
+.mooop img{
+    height: 20rch;
+    width: 25rem;
+}
+.mooop h1{
+    text-align: center;
+    color: white;
+
+}
+.mooop p{
+    color: white;
+    font-size: 1rem;
+    margin-top: 3rem;
+    margin-left: 2rem;
+    font-family:  Helvetica;
+}
+.madeix{
+    background-color: rgb(31, 31, 51);
+    height: 30rem;
+    width: 25rem;
+    margin-top: 5rem;
+
+
+}
+.food img{
+    height: 20rch;
+    width: 25rem;
+
+}
+.food h1{
+    text-align: center;
+    color: white;
+
+}
+.food p{
+    color: white;
+    font-size: 1rem;
+    margin-top: 3rem;
+    margin-left: 2rem;
+    font-family:  Helvetica; 
+}
+.sosegi{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    margin-top: 5rem;
+}
+.sosegi img{
+    height: 20rch;
+    width: 25rem;
+}
+.sosegi h1{
+    margin-top: 4rem;
+}
+.nongere{
+    background-color: rgb(31, 31, 51);
+    height: 15rem;
+    width: 40rem;
+    margin-top: 5rem;
+    margin-left: 30rem;
+}
+.nongere p{
+    color: white;
+    font-size: 1rem;
+    margin-left: 7rem;
+    font-family:  Helvetica;
+    font-family:  system-ui, 'Segoe UI''Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 5rem;
+}
+.aem{
+    background-image: url(https://res.cloudinary.com/ds4ij7xrn/image/upload/v1758777196/rogo_hx5pw6.jpg);
+    height: 28rem;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    object-fit: fill; 
+    margin-top: 10rem;
+}
+.come img{
+    height: 18rem;
+    width: 18rem;
+    margin-left: 5rem;
+    padding-top: 1rem;
+    border-radius: 20rem; 
+}
+
+.loseper {
+    text-align: center;
+    color: aliceblue;
+    margin-top: 5rem;
+    margin-right: 5rem;
+
+    
+}
+.loseper button{
+    background-color: antiquewhite;
+    width: 300px;
+    height: 2rem;
+    
+}
+.loseper p{
+    font-size: 2rem;
+}
+.knowtedging{
+    display: flex;
+    justify-content: space-between;
+}
